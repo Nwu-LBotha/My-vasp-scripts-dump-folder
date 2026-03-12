@@ -33,3 +33,5 @@ for i in range(start, end):
     print(f"Created {mid_folder}/POSCAR")
 
 print("\nMidpoint folders added successfully.")
+
+#Dt Louise M Botha
